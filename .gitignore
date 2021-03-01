@@ -111,6 +111,9 @@ dmypy.json
 
 # large data files
 data/athlete_events.csv
+data/mobile_app_launches_sessions_payments.pkl
+data/aclImdb/
+data/jupyter_english/input/
 
 # other stuff
 .DS_Store
